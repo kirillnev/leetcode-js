@@ -3,3 +3,5 @@
 !/src/
 !package.json
 !package-lock.json
+
+/src/tmp.js
